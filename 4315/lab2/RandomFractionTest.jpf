@@ -1,0 +1,3 @@
+target=RandomFractionTest
+classpath=.
+cg.enumerate_random=true
